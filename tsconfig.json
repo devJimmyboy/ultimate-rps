@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "moduleResolution": "node",
+    "typeRoots": ["./types"]
+  },
+  "include": ["types/*.d.ts"],
+  "files": ["types/global.d.ts"]
+}

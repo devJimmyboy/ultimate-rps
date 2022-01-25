@@ -1,0 +1,28 @@
+{
+  "folders": [
+    {
+      "name": "Client",
+      "path": "../client"
+    },
+    {
+      "name": "API",
+      "path": "../api"
+    },
+    {
+      "name": "Root",
+      "path": ".."
+    }
+  ],
+  "settings": {
+    "files.exclude": {
+      "**/.git": false,
+      "**/.svn": true,
+      "**/.hg": true,
+      "**/CVS": true,
+      "**/.DS_Store": true,
+      "**/Thumbs.db": true,
+      "**/api": true,
+      "**/client": true
+    }
+  }
+}
