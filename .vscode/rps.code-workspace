@@ -12,9 +12,7 @@
       "**/.hg": true,
       "**/CVS": true,
       "**/.DS_Store": true,
-      "**/Thumbs.db": true,
-      "**/api": true,
-      "**/client": true
+      "**/Thumbs.db": true
     }
   }
 }
